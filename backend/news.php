@@ -133,7 +133,7 @@
                       }
                       ?>
                       <tr>
-                        <td width="200px"><input class="btn btn-warning btn-block" type="button" onclick="op('#cover','#cvr','./modal/select.php')" value="新增"></td>
+                        <td width="200px"><input class="btn btn-warning btn-block" type="button" onclick="op('#cover','#cvr','./modal/aut.php?table=re_aut')" value="新增"></td>
                         <td>
                           <button type="submit" rel="tooltip" title="All Edit" class="btn btn-warning btn-link btn-sm">
                             <i class="material-icons">edit</i>

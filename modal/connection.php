@@ -3,6 +3,11 @@
 <form action="./api/add.php" method="post" enctype="multipart/form-data">
     <table>
         <tr>
+            <td style="vertical-align: top;">圖示</td>
+            <td><textarea class="form-control" name="icon" style="width: 300px;height:200px;"></textarea></td>
+        </tr>
+        <tr>
+        <tr>
             <td style="vertical-align: top;">聯絡方式</td>
             <td><textarea class="form-control" name="text" style="width: 300px;height:200px;"></textarea></td>
         </tr>
